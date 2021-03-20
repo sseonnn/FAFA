@@ -4,7 +4,7 @@ cffi==1.14.4
 chardet==3.0.4
 Django==2.1.1
 django-estimators==0.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.10
 numpy==1.19.4
 oauthlib==3.1.0
