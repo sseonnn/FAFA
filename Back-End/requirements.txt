@@ -6,7 +6,7 @@ Django==2.1.1
 django-estimators==0.2.1
 djangorestframework==3.11.0
 idna==2.10
-numpy==1.19.4
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==1.1.4
 Pillow==7.2.0
